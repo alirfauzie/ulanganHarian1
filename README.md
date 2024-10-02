@@ -1,4 +1,9 @@
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
+###
+  
 # Ulangan Harian 1
 
 Kelompok 1 PPLG :
@@ -11,4 +16,3 @@ Kelompok 1 PPLG :
 **Framework:** Bootstrap
 
 **Language:** HTML, CSS.
-
